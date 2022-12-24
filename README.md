@@ -7,7 +7,7 @@
 * Use K-means and Hierarchical clustering methods to group similar countries together
 * Use Internal validation metrics to report the cluster quality
 * Report the best clustering solution. Give a detailed list of all the groups and the countries included within the groups.
-* Generate three different scatter plots of your choice and color the data points according to the group.
+* Generate three different scatter plots and color the data points according to the group.
 
 ## 🏗️ Built with
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)

@@ -1,6 +1,6 @@
 # Clustering World Countries
 
-#### Aim of the project is to compare different countries all over the world by implementing K-means and Hierarchical Clustering methods. The attributes for clustering are selected from the World Indicator Dataset that includes information about each country regarding its GDP, Population, Energy Usage, Mortality Rates, etc.
+#### Aim of the project is to compare different countries all over the world by implementing K-means and Hierarchical Clustering methods. The attributes for clustering are selected from the World Indicator Dataset that includes information about each country regarding its GDP, Population, Energy Usage, Mortality Rates, etc. (Created in October 2022)
 
 ## Project Flow
 * Clean the data by removing or replacing missing values
